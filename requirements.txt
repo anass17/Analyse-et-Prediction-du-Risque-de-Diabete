@@ -1,0 +1,17 @@
+# Analyse et manipulation de données
+pandas
+numpy
+
+# Visualisation
+matplotlib
+seaborn
+
+# Prétraitement et modèles ML
+scikit-learn
+xgboost
+
+# Sérialisation du modèle
+joblib
+
+# Interface utilisateur
+Streamlit
